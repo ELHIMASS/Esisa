@@ -1,8 +1,8 @@
-# Learnify-
+# ESISA-
 
-Learnify 🎓 – Application de Gestion Intégrée pour Établissements Scolaires
+ESISA 🎓 – Application de Gestion Intégrée pour Établissements Scolaires
 📌Description du projet
-Learnify est une application web de gestion scolaire qui permet une administration centralisée des établissements éducatifs. Elle intègre un système intelligent de suivi des absences via empreinte digitale ou QR code, ainsi qu'un espace dédié aux enseignants et aux étudiants pour améliorer la communication et la gestion administrative.
+ESISA est une application web de gestion scolaire qui permet une administration centralisée des établissements éducatifs. Elle intègre un système intelligent de suivi des absences via empreinte digitale ou QR code, ainsi qu'un espace dédié aux enseignants et aux étudiants pour améliorer la communication et la gestion administrative.
 
 🚀 Fonctionnalités principales
 ✅ Gestion des absences : Suivi des présences avec empreinte digitale ou QR code .
